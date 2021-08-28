@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=marshtompsxd.readme)
+
+![Xudong's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshtompsxd&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshtompsxd&layout=compact&theme=material-palenight)
+
